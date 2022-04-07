@@ -1,8 +1,8 @@
 NFT Market App
 
-A new Flutter project.
+A new [OFFLINE]('') Flutter project.
 
-
+You can download .apk version [HERE](https://drive.google.com/file/d/11dRPZU0TADjwBscFQUveGJF1IN6MLPJ0/view?usp=sharing)
 
 
 
